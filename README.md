@@ -1,11 +1,9 @@
 # README
+This is a simple Blog built with Ruby on Rails. You can add a post, comment and delete (with security access)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Other points of interest:
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version: 2.7.3
 
 * System dependencies
 

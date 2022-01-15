@@ -1,7 +1,6 @@
 <h1>A blog to record my Makers Academy journey.</h1>
-Please feel free to comment...<br>
-
-This blog has <%= Article.public_count %> articles and counting!
+<h4>This blog has <%= Article.public_count %> articles and counting!<br>
+Please feel free to comment...</h4>
 <ul>
   <% @articles.each do |article| %>
     <% unless article.archived? %>
